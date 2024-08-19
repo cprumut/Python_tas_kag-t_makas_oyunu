@@ -1,0 +1,1 @@
+# Terminale python tas_kagit_makas.py kodunu yazarak başlatabilirsiniz.
